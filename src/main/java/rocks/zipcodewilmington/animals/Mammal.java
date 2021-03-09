@@ -34,6 +34,7 @@ public abstract class Mammal implements Animal {
     }
 
     public void setBirthDate(Date birthDate) {
+
         this.birthDate = birthDate;
     }
 
