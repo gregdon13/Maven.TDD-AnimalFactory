@@ -16,11 +16,6 @@ import java.util.Date;
  */
 public class CatTest {
 
-    @Before
-    public void init() {
-
-    }
-
     // TODO - Create tests for `void setName(String name)`
     @Test
     public void setNameTest() {
